@@ -1,4 +1,4 @@
-# SKELETON
+# Academlo Recipes
 
 - Express
 - PostgreSQL
